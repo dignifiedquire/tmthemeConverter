@@ -1,4 +1,4 @@
-# tmTheme to CodeMirror theme converter
+# `.tmTheme` to `.css` CodeMirror converter
 
 
 ## Usage
