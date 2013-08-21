@@ -1,4 +1,4 @@
-# `.tmTheme` to `.css` CodeMirror converter
+# Textmate to CodeMirror theme converter
 
 
 ## Usage
