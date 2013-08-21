@@ -1,0 +1,8 @@
+/* Theme: Colonoscopy */
+
+.cm-s-Colonoscopy.CodeMirror { color: #C0B6A8};
+.cm-s-Colonoscopy.CodeMirror { background: #161A1C };
+.cm-s-Colonoscopy .cm-cursor { color: #D0C179};
+.cm-s-Colonoscopy .cm-comment{color:#AEAEAE; };
+.cm-s-Colonoscopy .cm-string{color:#B9A185; };
+.cm-s-Colonoscopy .cm-number{color:#B9A185; };

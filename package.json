@@ -1,0 +1,16 @@
+{
+  "name": "tmthemeConverter",
+  "version": "0.0.1",
+  "description": "Convert .tmtheme to CodeMirror themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Friedel Ziegelmayer <dignifiedquire@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dashdash": "~1.3.2",
+    "plist": "~0.4.3",
+    "lodash": "~1.3.1"
+  }
+}
