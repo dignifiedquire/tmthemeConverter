@@ -1,8 +1,15 @@
 /* Theme: Colonoscopy */
 
-.cm-s-Colonoscopy.CodeMirror { color: #C0B6A8};
-.cm-s-Colonoscopy.CodeMirror { background: #161A1C };
+.cm-s-Colonoscopy.CodeMirror { color: #C0B6A8; };
+.cm-s-Colonoscopy.CodeMirror { background: #161A1C; };
 .cm-s-Colonoscopy .cm-cursor { color: #D0C179};
-.cm-s-Colonoscopy .cm-comment{color:#AEAEAE; };
-.cm-s-Colonoscopy .cm-string{color:#B9A185; };
-.cm-s-Colonoscopy .cm-number{color:#B9A185; };
+.cm-s-Colonoscopy .CodeMirror-activeline-background { background: #0000001F; };
+.cm-s-Colonoscopy .CodeMirror-selected { background: #2A4750; };
+.cm-s-Colonoscopy .cm-comment { color: #AEAEAE; };
+.cm-s-Colonoscopy .cm-string { color: #B9A185; };
+.cm-s-Colonoscopy .cm-number { color: #B9A185; };
+.cm-s-Colonoscopy .cm-keyword { color: #A1877E; };
+.cm-s-Colonoscopy .cm-error { color: #F3D651; };
+.cm-s-Colonoscopy .cm-invalidchar { color: #F3D651; };
+.cm-s-Colonoscopy .cm-variable { color: #8D776E; };
+.cm-s-Colonoscopy .cm-variable-2 { font-weight: bold; color: #B9A185; };
